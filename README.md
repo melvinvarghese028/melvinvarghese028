@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Melvin Tom Varghese
 - 👀 I’m interested in Coding, Film Direction, Editing
-- 🌱 I’m currently learning React JS, Django
+- 🌱 I’m currently learning React JS, Javascript
 - 📫 How to reach me m2vcreate@gmail.com
 
 <!---
