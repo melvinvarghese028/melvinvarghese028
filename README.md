@@ -4,7 +4,7 @@
 
 - :zap: I’m currently learning React JS, Javascript.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-tom-varghese-b1a574202/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-tom-varghese-b1a574202/)
 
 <!---
 melvinvarghese028/melvinvarghese028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
