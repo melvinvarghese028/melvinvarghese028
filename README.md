@@ -1,6 +1,3 @@
-- :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
-
-- :seedling: I’m interested in ML/AI
 
 - :zap: I’m currently learning React JS, Javascript.
 
