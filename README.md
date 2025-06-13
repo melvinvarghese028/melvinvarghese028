@@ -21,7 +21,7 @@
 
 ---
 
-### :fire: My Stats :
+### : My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melvinvarghese028&theme=shadow-green)](https://git.io/streak-stats)
 
